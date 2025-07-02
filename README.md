@@ -9,9 +9,6 @@ This is a simple JavaFX-based video player application that demonstrates basic m
 - 🔄 Reset video to the beginning
 - 💅 Styled buttons using JavaFX CSS
 
-## 📂 Project Structure
-
-
 ## 🛠 Tech Stack
 
 - Java 20+
