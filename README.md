@@ -27,7 +27,8 @@ This is a simple JavaFX-based video player application that demonstrates basic m
 
 ## 🖼 Preview
 
-> (You can add a screenshot or a short GIF here later)
+![Uploading Screenshot 2025-07-02 175450.png…]()
+
 
 ## 📌 Notes
 
