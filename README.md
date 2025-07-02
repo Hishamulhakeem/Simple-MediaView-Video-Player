@@ -37,7 +37,4 @@ This is a simple JavaFX-based video player application that demonstrates basic m
 - Great for learning JavaFX basics such as MediaView, Button actions, and CSS styling.
 ---
 
-Feel free to fork, star, or contribute!
-
-
 
