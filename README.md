@@ -27,7 +27,8 @@ This is a simple JavaFX-based video player application that demonstrates basic m
 
 ## 🖼 Preview
 
-![Uploading Screenshot 2025-07-02 175450.png…]()
+![Screenshot 2025-07-02 175450](https://github.com/user-attachments/assets/6169963a-a922-4691-9d62-f49642e3e04a)
+
 
 
 ## 📌 Notes
